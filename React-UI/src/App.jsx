@@ -27,7 +27,7 @@ const App = () => {
 
   return (
     <div className="flex justify-center items-center min-h-screen bg-gradient-to-br from-purple-50 to-indigo-100 p-6">
-      <div className="bg-white shadow-lg rounded-2xl p-10 max-w-xl w-full border border-gray-200">
+      <div className="bg-white shadow-lg rounded-2xl p-10 max-w-2xl w-full border border-gray-200">
         <h1 className="text-5xl mb-6 font-extrabold text-gray-900 text-center">
           Spam Detector
         </h1>
